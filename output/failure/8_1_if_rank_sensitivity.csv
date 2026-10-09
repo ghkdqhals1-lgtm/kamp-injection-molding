@@ -1,0 +1,6 @@
+﻿비지도_순위,rg3_최종후보
+가장 단순 (현재 규칙),IF_only
+로지스틱과 같음,IF_only
+랜덤포레스트와 같음,IF_only
+SVM·XGB와 같음,IF_only
+가장 복잡,XGB_base

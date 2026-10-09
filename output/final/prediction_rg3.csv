@@ -1,0 +1,39 @@
+﻿t,score,판정,보류사유,y,reason
+2020-11-04 05:01:17,0.658608142117955,판정보류,"Injection_Time, Filling_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:05:25,0.6678296889255715,판정보류,"Injection_Time, Filling_Time, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:06:25,0.6581727263226973,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:07:28,0.6704447322291347,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:08:28,0.6699227857937972,판정보류,"Filling_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:09:31,0.6598827004174734,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:10:33,0.666688496729881,판정보류,"Injection_Time, Filling_Time, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:11:34,0.6406659283392201,판정보류,"Injection_Time, Filling_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:12:36,0.6384348238690896,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:13:39,0.6597150340205528,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Plasticizing_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:14:39,0.6594711154737491,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:15:42,0.6616381078750444,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:16:45,0.6590151361389633,판정보류,"Filling_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:17:45,0.6682604975029051,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",1,가스
+2020-11-04 05:18:48,0.6491690100672901,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",1,가스
+2020-11-04 05:19:50,0.6445573642953137,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",1,미성형
+2020-11-04 05:20:51,0.6487305241595669,판정보류,"Injection_Time, Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",1,미성형
+2020-11-04 05:21:53,0.6573122187563636,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Plasticizing_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",1,가스
+2020-11-04 05:25:59,0.6678570432927706,판정보류,"Filling_Time, Plasticizing_Time, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:27:02,0.6722915391698089,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:28:02,0.6682327386068078,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:29:05,0.6836517114969463,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:30:07,0.6576212626104049,판정보류,"Filling_Time, Plasticizing_Time, Cushion_Position, Plasticizing_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:31:08,0.6775645485645634,판정보류,"Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:32:10,0.653960814081761,판정보류,"Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",1,가스
+2020-11-04 05:33:13,0.6509423085966972,판정보류,"Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Switch_Over_Pressure, Max_Back_Pressure",1,가스
+2020-11-04 05:34:13,0.6527240726250925,판정보류,"Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure",0,
+2020-11-04 05:35:16,0.6665356446438111,판정보류,"Filling_Time, Plasticizing_Time, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure",0,
+2020-11-04 05:36:18,0.6668647290832953,판정보류,"Filling_Time, Plasticizing_Time, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure",0,
+2020-11-04 05:37:19,0.6652334560312383,판정보류,"Filling_Time, Plasticizing_Time, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:38:21,0.6562022739464944,판정보류,"Filling_Time, Plasticizing_Time, Plasticizing_Position, Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:39:24,0.6563210550023988,판정보류,"Max_Injection_Speed, Average_Screw_RPM, Max_Injection_Pressure, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:40:24,0.6632807237624115,판정보류,"Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Switch_Over_Pressure, Max_Back_Pressure, Average_Back_Pressure",0,
+2020-11-04 05:41:27,0.6356551358927701,판정보류,"Max_Injection_Speed, Average_Screw_RPM, Max_Switch_Over_Pressure, Max_Back_Pressure",0,
+2020-11-04 05:42:29,0.6334524332943793,판정보류,"Max_Injection_Speed, Average_Screw_RPM, Max_Switch_Over_Pressure, Max_Back_Pressure",0,
+2020-11-04 05:43:29,0.647486113316952,판정보류,"Plasticizing_Time, Max_Injection_Speed, Max_Screw_RPM, Average_Screw_RPM, Max_Switch_Over_Pressure, Max_Back_Pressure",0,
+2020-11-05 03:00:02,0.6062171894658805,판정보류,"Plasticizing_Position, Average_Screw_RPM",0,
+2020-11-06 04:27:38,0.62144047503935,판정보류,"Plasticizing_Position, Average_Screw_RPM, Max_Injection_Pressure",0,
